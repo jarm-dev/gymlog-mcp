@@ -5,7 +5,7 @@ For the HOL awesome-ai-plugins list, section **Community Plugins › Tools & Int
 Entry line:
 
 ```
-- [GymLog](https://github.com/armgardtj/gymlog-mcp) - MCP server: hosted (not open source) OAuth connector for the GymLog strength-training log that lets an AI assistant read workouts, lift history and records, plan sessions with target weights, and log or import workouts, with per-permission consent and 30-day undo in the app.
+- [GymLog](https://github.com/jarm-dev/gymlog-mcp) - MCP server: hosted (not open source) OAuth connector for the GymLog strength-training log that lets an AI assistant read workouts, lift history and records, plan sessions with target weights, and log or import workouts, with per-permission consent and 30-day undo in the app.
 ```
 
 Test note for the PR description:
