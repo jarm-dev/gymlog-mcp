@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.jarm-dev/gymlog",
+  "title": "GymLog",
+  "description": "Strength training log: read your workouts, stats and gyms, and plan, log or edit sessions.",
+  "version": "1.0.0",
+  "websiteUrl": "https://getgymlog.web.app/ai",
+  "repository": {
+    "url": "https://github.com/jarm-dev/gymlog-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://getgymlog.web.app/mcp"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://getgymlog.web.app/brand/gymlog-logo-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ]
+}
